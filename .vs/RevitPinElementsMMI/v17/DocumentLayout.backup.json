@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|c:\\users\\johnn\\source\\repos\\revitpinelementsmmi\\changedparameterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|solutionrelative:changedparameterhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|c:\\users\\johnn\\source\\repos\\revitpinelementsmmi\\parsemmivalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|solutionrelative:parsemmivalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|c:\\users\\johnn\\source\\repos\\revitpinelementsmmi\\pinelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|solutionrelative:pinelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|c:\\users\\johnn\\source\\repos\\revitpinelementsmmi\\revitpinelementsmmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B247A7C3-614B-4D62-9BEA-1C01A361C6BE}|RevitPinElementsMMI.csproj|solutionrelative:revitpinelementsmmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RevitPinElementsMMI",
+              "DocumentMoniker": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\RevitPinElementsMMI.csproj",
+              "RelativeDocumentMoniker": "RevitPinElementsMMI.csproj",
+              "ToolTip": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\RevitPinElementsMMI.csproj",
+              "RelativeToolTip": "RevitPinElementsMMI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T11:49:20.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangedParameterHandler.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\ChangedParameterHandler.cs",
+              "RelativeDocumentMoniker": "ChangedParameterHandler.cs",
+              "ToolTip": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\ChangedParameterHandler.cs",
+              "RelativeToolTip": "ChangedParameterHandler.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:50:32.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParseMMIValue.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\ParseMMIValue.cs",
+              "RelativeDocumentMoniker": "ParseMMIValue.cs",
+              "ToolTip": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\ParseMMIValue.cs",
+              "RelativeToolTip": "ParseMMIValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:49:34.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PinElements.cs",
+              "DocumentMoniker": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\PinElements.cs",
+              "RelativeDocumentMoniker": "PinElements.cs",
+              "ToolTip": "C:\\Users\\johnn\\source\\repos\\RevitPinElementsMMI\\PinElements.cs",
+              "RelativeToolTip": "PinElements.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:43:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

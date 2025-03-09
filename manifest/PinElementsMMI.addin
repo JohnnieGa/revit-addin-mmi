@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+        <Name>RevitPinElementsMMI</Name>
+        <FullClassName>RevitPinElementsMMI.PinElements</FullClassName>
+        <Text>RevitPinElementsMMI</Text>
+        <Description>Pins elements with an MMI over 250</Description>
+        <VisibilityMode>AlwaysVisible</VisibilityMode>
+        <Assembly>C:\Users\johnn\source\repos\RevitPinElementsMMI\bin\Debug\net8.0\RevitPinElementsMMI.dll</Assembly>
+        <AddInId>14C07118-F130-4FFF-A6AF-C271DE75D42F</AddInId>
+        <VendorId>ADSK</VendorId>
+        <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+    </AddIn>
+
+    <AddIn Type="Application">
+        <Name>ParameterChangeHandler</Name>
+        <FullClassName>RevitPinElementsMMI.ChangedParameterHandler</FullClassName>
+        <Description>Monitors changes to elements in Revit</Description>
+        <Assembly>C:\Users\johnn\source\repos\RevitPinElementsMMI\bin\Debug\net8.0\RevitPinElementsMMI.dll</Assembly>
+        <AddInId>7E43D2C4-96E9-4A1C-8101-DB3FBB2421F0</AddInId>
+        <VendorId>ADSK</VendorId>
+        <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+    </AddIn>
+</RevitAddIns>
