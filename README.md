@@ -16,8 +16,6 @@ Using the function OnDocumentChanges from revits api, the addin also notifies th
 
 ![Shows the not pinned element with an MMI thats equal to 250](https://github.com/JohnnieGa/revit-addin-mmi/blob/main/docs/5-step.jpg)
 
-![Shows what happens when modifying element with MMI over 250](https://github.com/JohnnieGa/revit-addin/blob/main/docs/5-step.jpg)
-
 #### How to build:
 The addin is made for Revit 2025, using the framework .Net 8.0. Use the dependencies RevitAPI.dll and RevitAPIUI.dll. 
 Add UIFrameworkServices.dll if you want to try and make use of QuickAccessToolBarService for the undofunction (now outcommented in the code in ChangedParameterHandler).
