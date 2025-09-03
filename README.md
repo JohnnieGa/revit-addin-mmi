@@ -20,7 +20,7 @@ Using the function OnDocumentChanges from revits api, the addin also notifies th
 The addin is made for Revit 2025, using the framework .Net 8.0. Use the dependencies RevitAPI.dll and RevitAPIUI.dll. 
 Add UIFrameworkServices.dll if you want to try and make use of QuickAccessToolBarService for the undofunction (now outcommented in the code in ChangedParameterHandler).
 
-Change the manifest with your own path to the YourPlugin.dll - put the manifest under "C:\ProgramData\Autodesk\Revit\Addins\2025" (atleast the path should be something like this). 
+Change the manifest with your own path to the RevitPinElementsMMI.dll - put the manifest under "C:\ProgramData\Autodesk\Revit\Addins\2025" (atleast the path should be something like this). 
 
 ![Shows the path to change in the manifest file](https://github.com/JohnnieGa/revit-addin-mmi/blob/main/docs/manifestpic.jpg)
 
